@@ -1,0 +1,1 @@
+variable "candidate" { type = string }
